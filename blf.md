@@ -1,7 +1,7 @@
 sipXsss
 =======
 
-(sipXsss)[https://github.com/ezuce/sipXsss] - an application to monitor Sip UA states and provide
+[sipXsss](https://github.com/ezuce/sipXsss) - an application to monitor Sip UA states and provide
 notification of state changes.
 
 Current state
