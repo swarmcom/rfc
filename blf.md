@@ -37,3 +37,17 @@ Anchoring calls to FreeSWITCH will allow:
 
 This is somehow related with how ReachMe works by automating FreeSWITCH and tracking calls states by processing
 FreeSWITCH events.
+
+Required Modifications
+======================
+
+At some point in time Anchoring SIP signalling in FS will be the default...
+Park Orbit monitoring must work.
+Monitoring conference bridge in use would be nice also.
+
+Configuration for FreeSWITCH to anchor SIP signalling. SIPX-
+Admin GUI setting to anchor SIP signalling. SIPX-
+Configuration for FreeSWITCH to anchor SIP signalling and media. SIPX-
+Admin GUI setting to anchor SIP signalling and media. SIPX-
+Option for SSS to get call state from FreeSWITCH. SIPX-
+Admin GUI setting for SSS to get call state from FreeSWITCH. SIPX-
