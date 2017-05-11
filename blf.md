@@ -41,9 +41,11 @@ FreeSWITCH events.
 Required Modifications
 ======================
 
-At some point in time Anchoring SIP signalling in FS will be the default...
-Park Orbit monitoring must work.
-Monitoring conference bridge in use would be nice also.
+* At some point in time Anchoring SIP signalling in FS will be the default...
+
+* Park Orbit monitoring must work.
+
+* Monitoring conference bridge in use would be nice also.
 
 Configuration for FreeSWITCH to anchor SIP signalling. SIPX-0000
 
