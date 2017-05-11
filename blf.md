@@ -55,6 +55,10 @@ Configuration for FreeSWITCH to anchor SIP signalling and media. SIPX-0000
 
 Admin GUI setting to anchor SIP signalling and media. SIPX-0000
 
+Configuration for sipXproxy to route calls through FreeSWITCH.
+
+Admin GUI setting for sipXproxy to route calls through FreeSWITCH.
+
 Option for SSS to get call state from FreeSWITCH. SIP-0000
 
 Admin GUI setting for SSS to get call state from FreeSWITCH. SIPX-0000
