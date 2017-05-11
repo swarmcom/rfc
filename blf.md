@@ -41,24 +41,25 @@ FreeSWITCH events.
 Required Modifications
 ======================
 
+sipX and FreeSWITCH
+-------------------
+
 * At some point in time Anchoring SIP signalling in FS will be the default...
+* Configuration for FreeSWITCH to anchor SIP signalling. SIPX-0000
+* Configuration for FreeSWITCH to anchor SIP signalling and media. SIPX-0000
+* Admin GUI setting to anchor SIP signalling and media. SIPX-0000
+* Admin GUI setting to anchor SIP signalling. SIPX-0000
+* Configuration for sipXproxy to route calls through FreeSWITCH.
+* Admin GUI setting for sipXproxy to route calls through FreeSWITCH.
+
+Features
+--------
 
 * Park Orbit monitoring must work.
-
 * Monitoring conference bridge in use would be nice also.
 
-Configuration for FreeSWITCH to anchor SIP signalling. SIPX-0000
+sipXsss
+-------
 
-Admin GUI setting to anchor SIP signalling. SIPX-0000
-
-Configuration for FreeSWITCH to anchor SIP signalling and media. SIPX-0000
-
-Admin GUI setting to anchor SIP signalling and media. SIPX-0000
-
-Configuration for sipXproxy to route calls through FreeSWITCH.
-
-Admin GUI setting for sipXproxy to route calls through FreeSWITCH.
-
-Option for SSS to get call state from FreeSWITCH. SIP-0000
-
-Admin GUI setting for SSS to get call state from FreeSWITCH. SIPX-0000
+* Option for SSS to get call state from FreeSWITCH. SIP-0000
+* Admin GUI setting for SSS to get call state from FreeSWITCH. SIPX-0000
