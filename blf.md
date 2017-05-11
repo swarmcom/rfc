@@ -46,8 +46,13 @@ Park Orbit monitoring must work.
 Monitoring conference bridge in use would be nice also.
 
 Configuration for FreeSWITCH to anchor SIP signalling. SIPX-0000
+
 Admin GUI setting to anchor SIP signalling. SIPX-0000
+
 Configuration for FreeSWITCH to anchor SIP signalling and media. SIPX-0000
+
 Admin GUI setting to anchor SIP signalling and media. SIPX-0000
+
 Option for SSS to get call state from FreeSWITCH. SIP-0000
+
 Admin GUI setting for SSS to get call state from FreeSWITCH. SIPX-0000
